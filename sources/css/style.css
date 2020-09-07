@@ -1,0 +1,23 @@
+.logo
+{
+  height: 80px;
+  width: 80px;
+}
+
+.navbar-inverse
+{
+    background-color: #393939;
+    border-color: black;
+    border-radius: 0;
+    height: 120px;
+    color: white;
+}
+.navbar-inverse p
+{
+  font-size: 120%;
+}
+
+.navbar-inverse h1
+{
+  font-size: ;
+}

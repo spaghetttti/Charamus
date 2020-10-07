@@ -1,0 +1,22 @@
+{
+  "name": "charamus",
+  "version": "1.0.0",
+  "description": "node.js tutorial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaghetttti/Charamus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spaghetttti/Charamus/issues"
+  },
+  "homepage": "https://github.com/spaghetttti/Charamus#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
